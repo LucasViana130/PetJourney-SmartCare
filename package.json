@@ -1,0 +1,9 @@
+{
+  "name": "petjourney-smartcare",
+  "version": "1.0.0",
+  "description": "IoT Pet Monitoring",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-red"
+  }
+}
