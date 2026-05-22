@@ -157,6 +157,7 @@ O dashboard permite:
 * monitoramento de BPM;
 * acompanhamento do status do dispositivo;
 * atualização em tempo real;
+* alerta quando os parâmetros estiverem fora do normal;
 
 ---
 
