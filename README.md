@@ -168,7 +168,6 @@ petjourney-smartcare/
 ├── esp32_main.ino
 ├── flows.json
 ├── diagram.json
-├── database.sql
 ├── package.json
 ├── README.md
 └── evidences/
