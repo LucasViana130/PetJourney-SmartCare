@@ -87,11 +87,6 @@ O sistema simula um ambiente veterinário inteligente capaz de auxiliar clínica
 * Arduino IDE
 * VSCode
 
-## Banco de Dados
-
-* MYSQL
-* Modelagem Relacional
-
 ---
 
 # 🏗️ Arquitetura da Solução
