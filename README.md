@@ -243,5 +243,5 @@ O projeto pode evoluir para:
 Link do YouTube:
 
 ```bash id="1wxj2g"
-[ADICIONE O LINK DO VÍDEO AQUI](https://www.youtube.com/watch?v=uJp4LFyBDvw)
+https://www.youtube.com/watch?v=uJp4LFyBDvw
 ```
